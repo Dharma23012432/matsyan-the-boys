@@ -1,34 +1,66 @@
 ## Fish Market Price Tracker
-A simple web app to add and track fish prices in different markets.
+A real-time web app to help fishermen and vendors log and view fish prices across local markets — improving transparency, boosting profits, and enabling smarter selling decisions.
 
-## Features
-Add fish name, market name, and price
+## Problem Statement
+Many local fishermen lack access to real-time price data across nearby markets. This causes them to sell at lower prices, missing better opportunities. There is no lightweight and mobile-friendly system that allows quick price logging and sharing across regions.
 
-Store data using Firebase Firestore
+## Project Description
+Fish Market Price Tracker enables users to:
 
-Minimal user interface with HTML, CSS, and JavaScript
+Submit fish name, market name, and price
 
-## Technologies Used
-1. HTML
+Instantly store and retrieve price data using Firebase
 
-2. CSS
+View all entries in a simple, transparent list
 
-3. JavaScript
+Share pricing updates with other fishermen or vendors
 
-4. Firebase (Firestore & Hosting)
+The app is built to be mobile-friendly, easy to use, and fast.
 
- ## How to Run
-Open index.html in a browser
+## Tech Stack Used
 
-Add fish and market details
+1. HTML for	Page Structure
+2. CSS	for Styling
+3. JavaScript for	Dynamic Logic + DOM Handling
+4. Firebase for	Firestore Database + Hosting
 
-Click “Add Price” to store the data
+## Installation & Setup Instructions
+Clone the repository:
 
-Firebase stores your entries in real time
+git clone https://github.com/Dharma23012432/matsyan-the-boys.git
+Navigate to the folder and open index.html in a browser
 
-## Developer
-Team project by Dharmalingam S(Team Leader) and Sanjay K
+(Optional) To use your own Firebase setup, update the config inside script.js
 
+## How to Run the Project
+Open the hosted link in any browser (desktop or mobile)
+
+Enter fish name, market name, and price in the form
+
+Click “Add Price”
+
+The entry will be stored and shown instantly below
+
+No login or installation needed.
+
+## Screenshots
+Add these images to your repo’s screenshots folder and update the links below:
+
+
+
+
+## Live Deployment
+## https://your-firebase-app.web.app
+
+
+## YouTube Demo Video
+
+ https://www.youtube.com/watch?v=your-demo-id
+
+## Team Details
 Team Name: The Boys
 
-Submitted for: Agentic Hackathon 2025 – Round 2
+Member: Dharmalingam S(Team Leader) and Sanjay K
+
+Hackathon: Agentic Hackathon 2025 (Round 2)
+
