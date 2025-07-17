@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fish Market Price Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+    <div class="container">
+        <h1>Fish Market Price Tracker</h1>
+      
+        <section id="price-list">
+          <h2>Today's Prices</h2>
+          <ul id="prices"></ul>
+        </section>
+      
+        <section id="add-price">
+          <h2>Add New Price</h2>
+          <form id="priceForm">
+            <input type="text" id="fishName" placeholder="Fish Name" required />
+            <input type="text" id="marketName" placeholder="Market Name" required />
+            <input type="number" id="price" placeholder="Price (₹)" required />
+            <button type="submit">Add Price</button>
+          </form>
+        </section>
+      </div>
+      
+  
+  <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-firestore.js"></script>
+
+
+  <script src="script.js"></script>
+</body>
+</html>
