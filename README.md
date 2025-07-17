@@ -44,10 +44,7 @@ The entry will be stored and shown instantly below
 No login or installation needed.
 
 ## Screenshots
-Add these images to your repo’s screenshots folder and update the links below:
-
-
-
+<img width="1904" height="937" alt="Screenshot 2025-07-17 133558" src="https://github.com/user-attachments/assets/16aa77f9-a8f1-4f4f-951c-e0066ff77f4e" />
 
 ## Live Deployment
 
