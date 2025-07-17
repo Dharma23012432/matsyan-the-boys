@@ -50,8 +50,8 @@ Add these images to your repo’s screenshots folder and update the links below:
 
 
 ## Live Deployment
-## https://your-firebase-app.web.app
 
+https://fish-market-price-tracker.web.app
 
 ## YouTube Demo Video
 
