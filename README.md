@@ -28,5 +28,7 @@ Firebase stores your entries in real time
 
 ## Developer
 Team project by Dharmalingam S(Team Leader) and Sanjay K
+
 Team Name: The Boys
+
 Submitted for: Agentic Hackathon 2025 – Round 2
